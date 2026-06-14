@@ -1,2 +1,2 @@
-# Jamebaf
-Jamebaf, comapny.
+# Jamebaf, on pause.
+Project on pause.
